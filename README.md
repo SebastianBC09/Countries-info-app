@@ -11,22 +11,6 @@ root/
 
 ## Quick Start
 
-### Backend Setup (Port 3001)
-```bash
-cd backend
-npm install
-cp .env.example .env
-npm run dev
-```
-
-### Frontend Setup (Port 3000)
-```bash
-cd frontend
-npm install
-cp .env.example .env.local
-npm run dev
-```
-
 The application will be available at:
 - Frontend: `http://localhost:3000`
 - Backend API: `http://localhost:3001`
